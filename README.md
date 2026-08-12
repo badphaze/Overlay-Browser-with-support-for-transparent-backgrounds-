@@ -7,6 +7,6 @@ https://imgur.com/a/tNilmTC
 
 
 
-[hotkeys]
-HOME - Edit mode
-End - Kill button
+--hotkeys
+[HOME] - Edit mode,
+[END] - Kill button
