@@ -4,3 +4,9 @@ windows api + ImGui + WebView2
 
 Preview:
 https://imgur.com/a/tNilmTC
+
+
+
+[hotkeys]
+HOME - Edit mode
+End - Kill button
